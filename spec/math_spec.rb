@@ -1,4 +1,5 @@
 require 'spec_helper'
+require_relative '../lib/math.rb'
 
 describe "#addition" do 
   it "adds two numbers together" do
